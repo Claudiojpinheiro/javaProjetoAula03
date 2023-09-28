@@ -1,0 +1,76 @@
+# Arquivos de compilação
+*.class
+
+# Arquivos de build
+bin/
+target/
+
+# Arquivos de configuração do IDE (por exemplo, IntelliJ IDEA ou Eclipse)
+.idea/
+.vscode/
+
+# Arquivos gerados automaticamente
+*.iml
+*.log
+*.swp
+*.bak
+*.tmp
+
+# Diretórios de saída
+out/
+
+# Dependências geradas pelo Maven
+/.mvn/
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Arquivos de configuração do Maven
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Diretório de compilação do Gradle
+/build/
+
+# Diretório de compilação do Ant
+/build.xml
+
+# Arquivos de configuração do NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Arquivos de configuração do Eclipse
+.settings/
+.classpath
+.project
+
+# Logs e saída de depuração
+logs/
+*.log
+*.log.*
+*.tmp
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do Windows
+desktop.ini
+
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+
+# Arquivos de cache do Eclipse
+.metadata/
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+
+
